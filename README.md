@@ -4,3 +4,4 @@ Está aplicación está diseñada específicamente para dispositivos Android 15,
 
 ## Que es Redmi FastPair?
 Es una aplicación que simula la ventana emergente de Google fastpair al vincular audífonos, surge como capricho de tener un popup "nativo" para un modelo de audífonos en específico.
+Aclaro que esta aplicación esta enteramente programada con Gemini IA pro
